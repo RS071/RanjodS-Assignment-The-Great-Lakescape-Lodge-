@@ -1,0 +1,121 @@
+﻿/*Ranjod Singh
+7/28/24*/
+
+/* * {
+  background-color: rgb(98, 150, 209);
+} */
+
+nav {
+  font-size: 15px;
+  background-color: #2d2d6d;
+  font-family: sans-serif;
+  color: white;
+  padding-bottom: 10px;
+}
+
+a:link {
+  margin-right: 30px;
+  margin-top: 10px;
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: yellow;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#leftcol {
+  background-color: bisque;
+  padding-left: 25px;
+  width: auto;
+}
+
+#leftcol p {
+  padding-left: 15px;
+}
+
+#leftcol h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#notes {
+  background-color: rgb(55, 230, 55);
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+  border-bottom: 5px solid black;
+  border-top: 5px solid black;
+  border-radius: 25px;
+  border-width: 2px;
+}
+
+#notes h2 {
+  padding-left: 20px;
+}
+
+#notes ul {
+  width: 300px;
+}
+
+#events {
+  background-color: rgb(161, 108, 230);
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+  border-bottom: 5px solid black;
+  border-top: 5px solid black;
+  border-radius: 25px;
+  border-width: 2px;
+}
+
+#events h2 {
+  padding-left: 20px;
+}
+
+#events h3 {
+  padding-left: 20px;
+}
+
+#events p {
+  padding-left: 50px;
+}
+
+#rightcol {
+  background-color: rgb(92, 24, 24);
+  height: 980px;
+}
+
+#rightcol h2 {
+  padding-left: 20px;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#rightcol ul {
+  padding-left: 70px;
+  list-style-type: none;
+  line-height: 50%;
+}
+
+#rightcol li:first-child {
+  font-weight: bold;
+}
+
+#rightcol blockquote {
+  width: 250px;
+  color: white;
+}
+.highlight {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: #2d2d6d;
+  color: white;
+  text-align: center;
+}
